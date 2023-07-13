@@ -1,0 +1,22 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-color: #010116
+}
+    
+body {
+    margin: 3%;
+    overflow: hidden;
+    color: #fff
+}
+
+.flex-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#scene-container, .flex-wrapper {
+    background-color: #010116;
+    height: 100%
+}
