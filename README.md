@@ -1,6 +1,5 @@
 <h1 align="center">GitHub Globe</h1>
 
-
 The "GitHub Globe" GitHub project is a representation of the world globe on the GitHub homepage, displaying connections between different cities from all around the world.
 
 > [!NOTE]  
