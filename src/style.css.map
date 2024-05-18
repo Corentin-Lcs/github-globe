@@ -1,0 +1,7 @@
+{
+    "version": 3,
+    "names": [],
+    "mappings": "AAAA,KACA,UAAA,CACA,WAAA,CACA,wBACA,CAEA,KAEA,SAAA,CACA,eAAA,CACA,UACA,CAEA,cACA,YAAA,CACA,kBAAA,CACA,sBAGA,CAEA,+BAJA,wBAAA,CACA,WAcA",
+    "file": "main.css",
+    "sourcesContent": ["html {width: 100%; height: 100%; background-color: #010116;} body {margin: 3%; overflow: hidden; color: white;} .flex-wrapper {display: flex; align-items: center; justify-content: center; background-color: #010116; height: 100%;} #scene-container {height: 100%; background-color: #010116;}"]
+}
